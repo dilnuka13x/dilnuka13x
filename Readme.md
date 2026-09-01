@@ -1,7 +1,14 @@
 <div align="center">
 
   <!-- Sleek Glowing Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,30:0A84FF,70:34C759,100:BF5AF2&height=180&section=header&text=Isara%20Dilnuka&fontSize=44&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,30:0A84FF,70:34C759,100:BF5AF2&height=160&section=header&text=Isara%20Dilnuka&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header" />
+
+  <!-- Main Profile Avatar Logo -->
+  <a href="https://dilnuka13.github.io/my/">
+    <img src="https://dilnuka13.github.io/my/titlebar.png" width="85" height="85" alt="Isara Dilnuka Logo" style="border-radius: 22px; margin-top: -30px;" />
+  </a>
+
+  <br/><br/>
 
   <!-- Animated Typing SVG -->
   <a href="https://dilnuka13.github.io/my/">
@@ -59,12 +66,10 @@
 
 | Project | Type | Description | Live Links |
 | :--- | :--- | :--- | :--- |
-| **🌐 DMY&SC** | `Web Application` | Modern digital portal & community web presence | [🔗 Live Demo](https://dmyc.space/) |
-| **📚 DE Education** | `EdTech Platform` | A/L Past Papers, Schemes, AI Agents & Results | [🔗 Web App](https://dilnuka13.github.io/AL/) • [📱 APK](https://hppojrbfhzttzvlvovre.supabase.co/storage/v1/object/public/app-files/DE%20E%201.0v.apk) |
-| **📖 DE NOVA Reader** | `Productivity App` | Minimalist, high-performance browser PDF reader | [🔗 Launch App](https://dilnuka13.github.io/DE-NOVA-READER/) |
-| **⚡ DE Downloader** | `Media Utility` | High-speed video & audio downloader application | [🔗 Launch App](https://dilnuka13.github.io/DE-DOWNLOADER/) |
-| **🏫 MP IMS** | `Management System` | Full-featured institutional management portal | [🔗 Live Demo](https://mp-ims.web.app/) |
-| **⛽ National Fuel System** | `Cloud Solution` | QR-based vehicle quota & fuel pass platform | [🔗 Live App](https://dilnuka13.github.io/FUAL_PASS/) |
+| <img src="https://dmyc.space/assets/images/logo_1.png" width="34" height="34" align="center" /> **DMY&SC** | `Web Application` | Modern digital portal & community web presence | [🔗 Live Demo](https://dmyc.space/) |
+| <img src="https://dilnuka13.github.io/DE-NOVA-READER/logo.png" width="34" height="34" align="center" /> **DE Education** | `EdTech Platform` | A/L Past Papers, Schemes, AI Agents & Results | [🔗 Web App](https://dilnuka13.github.io/AL/) • [📱 APK](https://hppojrbfhzttzvlvovre.supabase.co/storage/v1/object/public/app-files/DE%20E%201.0v.apk) |
+| <img src="https://dilnuka13.github.io/DE-NOVA-READER/logo.png" width="34" height="34" align="center" /> **DE NOVA Reader** | `Productivity App` | Minimalist, high-performance browser PDF reader | [🔗 Launch App](https://dilnuka13.github.io/DE-NOVA-READER/) |
+| <img src="https://mp-ims.web.app/logo.png" width="34" height="34" align="center" /> **MP IMS** | `Management System` | Full-featured institutional management portal | [🔗 Live Demo](https://mp-ims.web.app/) |
 
 <div align="right">
   <a href="https://github.com/dilnuka13?tab=repositories"><b>Explore all 50+ repositories on @dilnuka13 →</b></a>
